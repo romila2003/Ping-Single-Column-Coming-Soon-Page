@@ -15,6 +15,7 @@ This is a solution to the [Ping Single Column Coming Soon Page challenge on Fron
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgement](#acknowledgement)
 
 
 ## Overview
@@ -27,25 +28,25 @@ This is a solution to the [Ping Single Column Coming Soon Page challenge on Fron
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Ping-Single-Column-Coming-Soon-Page/blob/main/Mobile%20preview.PNG)
 
 # Mobile Preview - active
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Ping-Single-Column-Coming-Soon-Page/blob/main/Mobile%20preview%20-%20active.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Ping-Single-Column-Coming-Soon-Page/blob/main/Desktop%20preview.PNG)
 
 # Desktop Preview - active
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Ping-Single-Column-Coming-Soon-Page/blob/main/Desktop%20preview%20-%20active.PNG)
 
 
 ### Links
 
- - Source code: []()
- - Live website: []()
+ - Source code: [https://github.com/romila2003/Ping-Single-Column-Coming-Soon-Page](https://github.com/romila2003/Ping-Single-Column-Coming-Soon-Page)
+ - Live website: [https://ping-single-column-coming-soon-page.netlify.app/](https://ping-single-column-coming-soon-page.netlify.app/)
 
 ## My process
 
@@ -92,7 +93,7 @@ For future developments, I need to work on using more javascript in future proje
 - Frontend Mentor - [@romila2003](https://www.frontendmentor.io/profile/romila2003)
 - Twitter - [@romila003](https://www.twitter.com/romila003)
 
-# Acknowledgments 
+# Acknowledgement
 
 I gained support from a [YouTube video](https://www.youtube.com/watch?v=HzJngc-Se9Q&t=238s) to help me with the Javascript validation aspect of the challenge.
 
